@@ -48,4 +48,5 @@ class VetControllerTest implements ControllerTests {
 
         assertThat(modelAttribute.size()).isEqualTo(2);
     }
+
 }

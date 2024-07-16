@@ -1,6 +1,5 @@
 package guru.springframework.sfgpetclinic.fauxspring;
 
-
 public class ModelAndView {
 
     public ModelAndView() {

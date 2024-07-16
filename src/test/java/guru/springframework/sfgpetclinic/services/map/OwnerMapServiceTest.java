@@ -104,4 +104,5 @@ class OwnerMapServiceTest {
 
         assertThat(ownerCount).isZero();
     }
+
 }

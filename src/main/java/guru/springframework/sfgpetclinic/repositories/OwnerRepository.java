@@ -1,6 +1,5 @@
 package guru.springframework.sfgpetclinic.repositories;
 
-
 import guru.springframework.sfgpetclinic.model.Owner;
 
 import java.util.List;

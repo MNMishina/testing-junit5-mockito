@@ -8,7 +8,6 @@ import java.text.ParseException;
 import java.util.Collection;
 import java.util.Locale;
 
-
 public class PetTypeFormatter implements Formatter {
 
     private final PetTypeService petTypeService;

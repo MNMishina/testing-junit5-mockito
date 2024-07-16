@@ -9,4 +9,5 @@ public class IndexController {
     public String oopsHandler() {
         throw new ValueNotFoundException();
     }
+
 }

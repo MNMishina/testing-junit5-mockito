@@ -6,9 +6,6 @@ import org.junit.jupiter.api.RepeatedTest;
 import org.junit.jupiter.api.RepetitionInfo;
 import org.junit.jupiter.api.TestInfo;
 
-/**
- * Created by jt on 2018-10-28.
- */
 public class PersonRepeatedTests implements ModelRepeatedTests {
 
     @RepeatedTest(value = 10, name = "{displayName} : {currentRepetition} - {totalRepetitions}")

@@ -105,4 +105,5 @@ class IndexControllerTest implements ControllerTests {
     @Test
     void testIfUserFred() {
     }
+
 }

@@ -29,4 +29,5 @@ class PersonTest implements ModelTests {
                 () -> assertEquals(person.getFirstName(), "Joe", "First Name Failed"),
                 () -> assertEquals(person.getLastName(), "Buck", "Last Name Failed"));
     }
+
 }

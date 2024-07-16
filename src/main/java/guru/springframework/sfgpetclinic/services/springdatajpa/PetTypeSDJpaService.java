@@ -7,7 +7,6 @@ import guru.springframework.sfgpetclinic.services.PetTypeService;
 import java.util.HashSet;
 import java.util.Set;
 
-
 public class PetTypeSDJpaService implements PetTypeService {
 
     private final PetTypeRepository petTypeRepository;

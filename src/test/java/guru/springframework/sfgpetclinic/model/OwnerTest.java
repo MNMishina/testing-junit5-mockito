@@ -87,5 +87,4 @@ class OwnerTest implements ModelTests {
     void fromCustomProviderTest(String stateName, int val1, int val2) {
         System.out.println(stateName + " = " + val1 + ":" + val2);
     }
-
 }

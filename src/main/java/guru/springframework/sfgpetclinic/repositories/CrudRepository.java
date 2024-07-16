@@ -90,4 +90,5 @@ public interface CrudRepository<T, ID> extends Repository<T, ID> {
      * Deletes all entities managed by the repository.
      */
     void deleteAll();
+
 }
